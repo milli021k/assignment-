@@ -5,6 +5,11 @@ color: white
 
 }
 
+.backpic
+{
+  background-image: url('BACKGROUND.jpeg');
+}
+
 a:link {
   color: #FF0000;
 }
@@ -21,21 +26,21 @@ a:active {
   color: #0000FF;
 }
 
-body{
+main{
 
-  margin-left: 25%;
-  margin-right: 25%
+  margin-left: 20%;
+  margin-right: 20%;
   
 }
 
-.text-centered {
+h1,h2,footer{
   text-align: center;
 }
 
+header{
+  margin-top: 0px;
+}
 
-.center {
-  margin: auto;
-  width: 75%;
-  border: 3px solid green;
-  padding: 5px;
+footer{
+  margin-bottom: 0px;
 }
