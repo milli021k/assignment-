@@ -30,11 +30,19 @@ main{
 
   margin-left: 25%;
   margin-right: 25%;
-margin-top: 10Px
+margin-top: 10Px;
+  
+margin-bottom: 10px;
 }
 
 h1,h2,h3{
   text-align: center;
+}
+
+
+
+footer{
+  height: 10%;
 }
 
 
