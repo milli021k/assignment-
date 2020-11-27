@@ -85,3 +85,13 @@ img{
   margin-right: auto;
   width: 100%;
 }
+
+.imgdim
+{width:100% ;
+  height :300
+}
+
+.profdim{
+  width :50%;
+   height :25% 
+}
