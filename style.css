@@ -1,4 +1,4 @@
-// background for header and footer 
+/* background for header and footer */ 
 .blackbackground
 {
 background:  black;
@@ -6,13 +6,13 @@ color: white
 
 }
 
-// background picture
+/* background picture */
 .backpic
 {
   background-image: url('BACKGROUND.jpeg');
 }
 
-//link colors at different states
+/* link colors at different states */
 a:link {
   color: #FF0000;
 }
@@ -29,7 +29,7 @@ a:active {
   color: #0000FF;
 }
 
-// main part properties
+/* main part properties */
 main{
 
   margin-left: 25%;
@@ -39,7 +39,7 @@ margin-top: 10Px;
 margin-bottom: 10px;
 }
 
-// header properties
+/* header properties */
 h2,h3{
   text-align: center;
   font-family: serif;
@@ -51,17 +51,17 @@ h1{
   font-family: "Comic Sans MS";
 }
 
-// font size of paragraphs
+/* font size of paragraphs */
 p {
   font-size: 15px;
 }
 
-//footer height 
+/* footer height */
 footer{
   height: 10%;
 }
 
-// width of this elements to full screen size
+/* width of this elements to full screen size */
 h1,h2,footer,header ,h3{
   margin-bottom: 0;
   margin-top: 0;
@@ -73,12 +73,12 @@ html,body{
   height: 100%;
 }
 
-// image padding
+/* image padding */
 img{
  padding-left: 80px; 
 }
 
-// center class
+/* center class */
 .center {
   
   margin-left: auto;
